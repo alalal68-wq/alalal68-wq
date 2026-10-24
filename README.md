@@ -40,7 +40,7 @@
 
 </div>
 
-> 🦀 Rust: изучаю.
+> 🦀 Rust: изучаю. *(Если это не так, удали эту строку.)*
 
 <br/>
 
@@ -77,9 +77,9 @@
 
 <img src="assets/contact.png" alt="CONTACT" width="600"/>
 
-<!-- Замени ссылки на свои или удали ненужные -->
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/ТВОЙ_ID)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ТВОЙ_НИК)
+[![Website](https://img.shields.io/badge/-Мой_сайт-2EE6AA?logo=githubpages&logoColor=black&style=for-the-badge)](https://alalal68-wq.github.io/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@python-v7)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/R4hcEfsFQq)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/alalal68-wq)
 
 <sub>⭐ Если проект зашёл, поставь звёздочку</sub>
